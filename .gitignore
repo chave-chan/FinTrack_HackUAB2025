@@ -1,0 +1,23 @@
+# Node.js / React Native
+node_modules/
+.expo/
+.expo-shared/
+*.log
+yarn.lock
+package-lock.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs y editores
+.vscode/
+.idea/
+*.iml
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db

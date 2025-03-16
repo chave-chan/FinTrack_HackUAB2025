@@ -1,0 +1,29 @@
+# Frameworks y utilidades
+fastapi
+uvicorn[standard]
+
+# Base de datos
+sqlalchemy[asyncio]
+asyncpg
+psycopg2
+psycopg2-binary
+
+# Seguridad y autenticación
+python-jose[cryptography]
+passlib[bcrypt]
+pyjwt
+
+# IA y chatbot
+openai
+pydantic
+pydantic[email]
+pydantic-settings
+
+# Manejo de variables de entorno
+python-dotenv
+
+# Notificaciones push
+firebase-admin
+
+# Utilidades adicionales
+httpx
